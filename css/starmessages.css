@@ -1,0 +1,36 @@
+body {
+    background-image: url('image/whatsapp.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+td {
+    border-radius: 40px;
+    padding: 1em;
+    color: white;
+}
+
+.messages{
+    margin-top: 5em;
+    margin: 5em;
+    max-width: 50em;
+    min-width: 0em;
+    background-color: rgb(52, 51, 51);
+    border-radius: 40px;
+}
+
+p{
+    font-size: small;
+    color: rgb(203, 200, 200);
+} 
+
+.myMessage{
+    margin-top: 5em;
+    margin: 5em;
+    max-width: 50em;
+    min-width: 0em;
+    margin-left: 75em;
+    background-color: rgb(64, 133, 77);
+    border-radius: 40px;
+}
